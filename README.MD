@@ -20,4 +20,6 @@ $ nc localhost 8989
 
 Projects allows to create up to 10 new terminals with new users that are able to communicate with each other.
 
-```
+
+### AUTHOR
+https://linkedin.com/in/ansarissabekov/
